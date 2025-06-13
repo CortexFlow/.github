@@ -1,1 +1,1 @@
-![init-cf](./init-cf.png)
+![init-cf](https://www.cortexflow.org/init-cf.png)
